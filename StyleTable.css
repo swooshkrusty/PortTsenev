@@ -40,12 +40,12 @@ th  {
     width: 1235px;
     background-color: lightyellow;
 }
-@media (min-width: 500px){
+@media (min-width: 600px) {
   body {
     background-color: lightgreen;
   }
 }
-@media (max-width: 499px) {
+@media (max-width: 599px) {
   body {
     background-color: lightblue;
   }
